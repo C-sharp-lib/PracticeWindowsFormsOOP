@@ -1,0 +1,16 @@
+C:\Users\strad\OneDrive\Desktop\school\contemporary\week3\Encapsulation\Encapsulation\bin\Debug\net6.0-windows\Encapsulation.exe
+C:\Users\strad\OneDrive\Desktop\school\contemporary\week3\Encapsulation\Encapsulation\bin\Debug\net6.0-windows\Encapsulation.deps.json
+C:\Users\strad\OneDrive\Desktop\school\contemporary\week3\Encapsulation\Encapsulation\bin\Debug\net6.0-windows\Encapsulation.runtimeconfig.json
+C:\Users\strad\OneDrive\Desktop\school\contemporary\week3\Encapsulation\Encapsulation\bin\Debug\net6.0-windows\Encapsulation.dll
+C:\Users\strad\OneDrive\Desktop\school\contemporary\week3\Encapsulation\Encapsulation\bin\Debug\net6.0-windows\Encapsulation.pdb
+C:\Users\strad\OneDrive\Desktop\school\contemporary\week3\Encapsulation\Encapsulation\obj\Debug\net6.0-windows\Encapsulation.ProductMaintenance.resources
+C:\Users\strad\OneDrive\Desktop\school\contemporary\week3\Encapsulation\Encapsulation\obj\Debug\net6.0-windows\Encapsulation.csproj.GenerateResource.cache
+C:\Users\strad\OneDrive\Desktop\school\contemporary\week3\Encapsulation\Encapsulation\obj\Debug\net6.0-windows\Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\strad\OneDrive\Desktop\school\contemporary\week3\Encapsulation\Encapsulation\obj\Debug\net6.0-windows\Encapsulation.AssemblyInfoInputs.cache
+C:\Users\strad\OneDrive\Desktop\school\contemporary\week3\Encapsulation\Encapsulation\obj\Debug\net6.0-windows\Encapsulation.AssemblyInfo.cs
+C:\Users\strad\OneDrive\Desktop\school\contemporary\week3\Encapsulation\Encapsulation\obj\Debug\net6.0-windows\Encapsulation.csproj.CoreCompileInputs.cache
+C:\Users\strad\OneDrive\Desktop\school\contemporary\week3\Encapsulation\Encapsulation\obj\Debug\net6.0-windows\Encapsulation.dll
+C:\Users\strad\OneDrive\Desktop\school\contemporary\week3\Encapsulation\Encapsulation\obj\Debug\net6.0-windows\refint\Encapsulation.dll
+C:\Users\strad\OneDrive\Desktop\school\contemporary\week3\Encapsulation\Encapsulation\obj\Debug\net6.0-windows\Encapsulation.pdb
+C:\Users\strad\OneDrive\Desktop\school\contemporary\week3\Encapsulation\Encapsulation\obj\Debug\net6.0-windows\Encapsulation.genruntimeconfig.cache
+C:\Users\strad\OneDrive\Desktop\school\contemporary\week3\Encapsulation\Encapsulation\obj\Debug\net6.0-windows\ref\Encapsulation.dll
